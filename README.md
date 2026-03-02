@@ -1,0 +1,2 @@
+# singlepageapp
+myinf0
